@@ -20,11 +20,11 @@ Estimate of time needed to complete: 20min
 
 Start time: 14:15
 
-Finish time: _____
+Finish time: 14:40
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25min
 
-05/17/2020 14:10
+05/17/2020 14:40 application now has a profile picture and "about me" banner. broken links will be repaired in a future patch. 
 
 ## Feature (?) __________
 

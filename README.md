@@ -20,23 +20,23 @@ Estimate of time needed to complete: 20min
 
 Start time: 14:15
 
-Finish time: _____
+Finish time: 14:40
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25min
 
-05/17/2020 14:10
+05/17/2020 14:40 app now has profile and "about me" image assests with corresponding alt text. 
 
-## Feature (?) __________
+## Feature (?) Personalization patch 1.0.2 homepage content update.
 
-Estimate of time needed to complete: ??min
+Estimate of time needed to complete: 60min
 
-Start time: ??:??
+Start time: 17:00
 
 Finish time: ??
 
 Actual time needed to complete: ??
 
-??/??/2020 ??:??
+05/17/2020 ??:??
 
 ## Feature (?) __________
 
